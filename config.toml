@@ -7,7 +7,7 @@ copyright = '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa
 # after deploying
 googleAnalytics = ""
 disqusShortname = "nimishkhattar7"
-utterancesRepo = ""
+utterancesRepo = "nimishkhattar.github.io"
 
 enableRobotsTXT = true
 
