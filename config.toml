@@ -6,7 +6,7 @@ theme = "dream"
 copyright = '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Copyrights <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-Non-commercial use-Sharing in the same way 4.0 International <br /><br />(CC BY-NC-SA 4.0) <a href="https://www.pexels.com/zh-cn/" target="_blank">Pexels</a><br />© 2021 Nimish Khattar<br />Powered by Hugo with theme Dream.'
 # after deploying
 googleAnalytics = ""
-disqusShortname = "nimishkhattar7"
+# disqusShortname = "nimishkhattar7"
 utterancesRepo = "nimishkhattar.github.io"
 
 enableRobotsTXT = true
